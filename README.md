@@ -2,4 +2,4 @@
 
 Made with my mentor at [Bloc](http://bloc.io).
 
-My change and another
+Feel free to configure application.yml for your environment.
